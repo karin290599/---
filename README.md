@@ -10,3 +10,5 @@
 
 
 Требования - https://praktikum.notion.site/Mesto-9f2cfaa209734d1f8cfa0c0db3d3049f
+
+Регресс - 📄 [Регресс тестирование (Mesto)](https://docs.google.com/spreadsheets/d/15QtgE1l_uRqu0O5vfKgLPiHFPndGZlxKHEWIKiC8GLo/edit?gid=220888493#gid=220888493)
